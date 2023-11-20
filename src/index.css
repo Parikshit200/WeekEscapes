@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+:root{
+  --primary-dark:#090979;
+  --primary-light:#0188b0;
+}
+@layer base{
+  html{
+    @apply scroll-smooth
+  }
+
+  body{
+    @apply font-[Poppins]
+  }
+  li {
+    @apply p-4 text-sm
+  }
+  button{
+    @apply px-4 py-2 border rounded-md bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white
+  }
+  h2{
+    @apply text-xl font-bold
+  }
+}
