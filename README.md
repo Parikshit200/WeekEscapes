@@ -1,3 +1,22 @@
+ # WeekEscapes
+###  Welcome to WeekEscapes, a Front-End React web app styled with Tailwind CSS for easy and beautiful weekly planning.
+
+<img width="1438" alt="image" src="https://github.com/Parikshit200/WeekEscapes/assets/141315392/6510f0cd-c75e-432b-877f-517db2fc112e">
+
+
+## Features
+- Week-based planning for easy organization.
+- Responsive design for a seamless experience on various devices.
+- Beautifully styled using Tailwind CSS.
+
+- CSS Framework: Tailwind CSS    
+# Built With
+- [React](https://reactjs.org/)  - JavaScript library for building user interfaces. <img width = "38" height="20" alt = "image" src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.  <img width = "30" height="20" alt = "image" src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Acknowledgments
+### Thanks to the creators of React and Tailwind CSS for providing awesome tools.
+### Special thanks to the React community for their support.
