@@ -1,7 +1,8 @@
  # WeekEscapes
 ###  Welcome to WeekEscapes, a Front-End React web app styled with Tailwind CSS for easy and beautiful weekly planning.
 
-<img width="1438" alt="image" src="https://github.com/Parikshit200/WeekEscapes/assets/141315392/6510f0cd-c75e-432b-877f-517db2fc112e">
+<img width="1438" alt="image" src="https://github.com/Parikshit200/WeekEscapes/assets/141315392/1cc31434-2d02-4e9b-8e29-7b6f39e386df">
+
 
 
 ## Features
